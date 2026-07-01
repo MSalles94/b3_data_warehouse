@@ -1,0 +1,364 @@
+;SECTOR;SUBSECTOR;SEGMENT;ISSUER;CODE;TRADING SEGMENT
+2;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Exploration, Refining and Distribution;AZT ENERGIA;AZTE;Básico Bolsa
+3;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Exploration, Refining and Distribution;BRAVA;BRAV;Novo Mercado
+4;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Exploration, Refining and Distribution;COSAN;CSAN;Novo Mercado
+5;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Exploration, Refining and Distribution;PET MANGUINH;RPMG;Básico Bolsa
+6;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Exploration, Refining and Distribution;PETROBRAS;PETR;Nível 2
+7;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Exploration, Refining and Distribution;PETRORECSA;RECV;Novo Mercado
+8;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Exploration, Refining and Distribution;PRIO;PRIO;Novo Mercado
+9;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Exploration, Refining and Distribution;RAIZEN;RAIZ;Nível 2
+10;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Exploration, Refining and Distribution;ULTRAPAR;UGPA;Novo Mercado
+11;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Equipment and Services;LUPATECH;LUPA;Novo Mercado
+12;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Equipment and Services;OCEANPACT;OPCT;Novo Mercado
+13;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Equipment and Services;OSX BRASIL;OSXB;Novo Mercado
+14;Oil,Gas and Biofuels;Oil,Gas and Biofuels;Fuel Distribution;VIBRA;VBBR;Novo Mercado
+16;Basic Materials;Mining;Metalic Minerals;AURA 360;AURA;BDR3
+17;Basic Materials;Mining;Metalic Minerals;BRADESPAR;BRAP;Nível 1
+18;Basic Materials;Mining;Metalic Minerals;CBA;CBAV;Novo Mercado
+19;Basic Materials;Mining;Metalic Minerals;CSNMINERACAO;CMIN;Nível 2
+20;Basic Materials;Mining;Metalic Minerals;LITEL;LTEL;Básico Balcão
+21;Basic Materials;Mining;Metalic Minerals;LITELA;LTLA;Básico Balcão
+22;Basic Materials;Mining;Metalic Minerals;VALE;VALE;Novo Mercado
+23;Basic Materials;Steel and Metalurgy;Steel;FERBASA;FESA;Nível 1
+24;Basic Materials;Steel and Metalurgy;Steel;GERDAU;GGBR;Nível 1
+25;Basic Materials;Steel and Metalurgy;Steel;GERDAU MET;GOAU;Nível 1
+26;Basic Materials;Steel and Metalurgy;Steel;SID NACIONAL;CSNA;Básico Bolsa
+27;Basic Materials;Steel and Metalurgy;Steel;USIMINAS;USIM;Nível 1
+28;Basic Materials;Steel and Metalurgy;Iron and Steel Products;HAGA S/A;HAGA;Básico Bolsa
+29;Basic Materials;Steel and Metalurgy;Iron and Steel Products;MANGELS INDL;MGEL;Básico Bolsa
+30;Basic Materials;Steel and Metalurgy;Iron and Steel Products;PANATLANTICA;PATI;Básico Bolsa
+31;Basic Materials;Steel and Metalurgy;Copper Products;PARANAPANEMA;PMAM;Novo Mercado
+32;Basic Materials;Chemicals;Petrochemicals;BRASKEM;BRKM;Nível 1
+33;Basic Materials;Chemicals;Petrochemicals;DEXXOS PAR;DEXP;Nível 1
+34;Basic Materials;Chemicals;Fertilizers;FER HERINGER;FHER;Novo Mercado
+35;Basic Materials;Chemicals;Fertilizers;NUTRIPLANT;NUTR;Básico Bolsa
+36;Basic Materials;Chemicals;Fertilizers;VITTIA;VITT;Novo Mercado
+37;Basic Materials;Chemicals;Chemicals - Others;CRISTAL;CRPG;Básico Bolsa
+38;Basic Materials;Chemicals;Chemicals - Others;UNIPAR;UNIP;Básico Bolsa
+39;Basic Materials;Wood and Paper;Wood;DEXCO;DXCO;Novo Mercado
+40;Basic Materials;Wood and Paper;Wood;EUCATEX;EUCA;Nível 1
+41;Basic Materials;Wood and Paper;Pulp and Paper;KLABIN S/A;KLBN;Nível 2
+42;Basic Materials;Wood and Paper;Pulp and Paper;MELHOR SP;MSPA;Básico Bolsa
+43;Basic Materials;Wood and Paper;Pulp and Paper;SUZANO HOLD;NEMO;Básico Bolsa
+44;Basic Materials;Wood and Paper;Pulp and Paper;SUZANO S.A.;SUZB;Novo Mercado
+45;Basic Materials;Packaging;Packaging;IRANI;RANI;Novo Mercado
+46;Basic Materials;Diversified Materials;Other Materials;SANSUY;SNSY;Básico Bolsa
+48;Capital Goods and Services;Construction and Engeneering;Building Products;ETERNIT;ETER;Novo Mercado
+49;Capital Goods and Services;Construction and Engeneering;Building Products;PORTOBELLO;PTBL;Novo Mercado
+50;Capital Goods and Services;Construction and Engeneering;Heavy Construction;AZEVEDO;AZEV;Básico Bolsa
+51;Capital Goods and Services;Construction and Engeneering;Consultive Engeneering;SONDOTECNICA;SOND;Básico Bolsa
+52;Capital Goods and Services;Construction and Engeneering;Diversified Services;ARMAC;ARML;Novo Mercado
+53;Capital Goods and Services;Construction and Engeneering;Diversified Services;MILLS;MILS;Novo Mercado
+54;Capital Goods and Services;Construction and Engeneering;Diversified Services;PRINER;PRNR;Novo Mercado
+55;Capital Goods and Services;Transportation Equipment and Components;Aerospace and Defense;EMBRAER;EMBJ;Novo Mercado
+56;Capital Goods and Services;Transportation Equipment and Components;Transportation Equipment/Diversified;FRAS-LE;FRAS;Nível 1
+57;Capital Goods and Services;Transportation Equipment and Components;Transportation Equipment/Diversified;MARCOPOLO;POMO;Nível 2
+58;Capital Goods and Services;Transportation Equipment and Components;Transportation Equipment/Diversified;RANDON PART;RAPT;Nível 1
+59;Capital Goods and Services;Transportation Equipment and Components;Transportation Equipment/Diversified;RECRUSUL;RCSL;Básico Bolsa
+60;Capital Goods and Services;Transportation Equipment and Components;Transportation Equipment/Diversified;RIOSULENSE;RSUL;Básico Bolsa
+61;Capital Goods and Services;Transportation Equipment and Components;Transportation Equipment/Diversified;TUPY;TUPY;Novo Mercado
+62;Capital Goods and Services;Transportation Equipment and Components;Transportation Equipment/Diversified;WETZEL S/A;MWET;Básico Bolsa
+63;Capital Goods and Services;Machines and Equipments;Motors and Compressors;SCHULZ;SHUL;Básico Bolsa
+64;Capital Goods and Services;Machines and Equipments;Motors and Compressors;WEG;WEGE;Novo Mercado
+65;Capital Goods and Services;Machines and Equipments;Machines and Industrial Equipments;ACO ALTONA;EALT;Básico Bolsa
+66;Capital Goods and Services;Machines and Equipments;Machines and Industrial Equipments;AERIS;AERI;Novo Mercado
+67;Capital Goods and Services;Machines and Equipments;Machines and Industrial Equipments;BARDELLA;BDLL;Básico Bolsa
+68;Capital Goods and Services;Machines and Equipments;Machines and Industrial Equipments;INEPAR;INEP;Básico Bolsa
+69;Capital Goods and Services;Machines and Equipments;Machines and Industrial Equipments;KEPLER WEBER;KEPL;Novo Mercado
+70;Capital Goods and Services;Machines and Equipments;Machines and Industrial Equipments;METALFRIO;FRIO;Novo Mercado
+71;Capital Goods and Services;Machines and Equipments;Machines and Industrial Equipments;PRATICA;PTCA;Básico Bolsa
+72;Capital Goods and Services;Machines and Equipments;Machines and Industrial Equipments;ROMI;ROMI;Novo Mercado
+73;Capital Goods and Services;Machines and Equipments;Agricultural and Construction Machinery;METISA;MTSA;Básico Bolsa
+74;Capital Goods and Services;Machines and Equipments;Weapons and Munitions;TAURUS ARMAS;TASA;Nível 2
+75;Capital Goods and Services;Transportation;Airlines;AZUL;AZUL;Nível 2
+76;Capital Goods and Services;Transportation;Railroads;FER C ATLANT;VSPT;Básico Bolsa
+77;Capital Goods and Services;Transportation;Railroads;MRS LOGIST;MRSA;Básico Balcão
+78;Capital Goods and Services;Transportation;Railroads;RUMO S.A.;RAIL;Novo Mercado
+79;Capital Goods and Services;Transportation;Marine and Water Transport;HIDROVIAS;HBSA;Novo Mercado
+80;Capital Goods and Services;Transportation;Marine and Water Transport;LOG-IN;LOGN;Novo Mercado
+81;Capital Goods and Services;Transportation;Marine and Water Transport;TREVISA;LUXM;Básico Bolsa
+82;Capital Goods and Services;Transportation;Trucking;JSL;JSLG;Novo Mercado
+83;Capital Goods and Services;Transportation;Trucking;SEQUOIA LOG;SEQL;Novo Mercado
+84;Capital Goods and Services;Transportation;Trucking;TEGMA;TGMA;Novo Mercado
+85;Capital Goods and Services;Transportation;Toll Roads and Highways;CONC RIO TER;CRTE;Básico Bolsa
+86;Capital Goods and Services;Transportation;Toll Roads and Highways;ECORODOVIAS;ECOR;Novo Mercado
+87;Capital Goods and Services;Transportation;Toll Roads and Highways;MOTIVA SA;MOTV;Novo Mercado
+88;Capital Goods and Services;Transportation;Toll Roads and Highways;TRIUNFO PART;TPIS;Novo Mercado
+89;Capital Goods and Services;Transportation;Warehousing and Storage;GRUAIRPORT;AGRU;Básico Bolsa
+90;Capital Goods and Services;Transportation;Warehousing and Storage;HMOBI S.A;HMOB;Básico Bolsa
+91;Capital Goods and Services;Transportation;Warehousing and Storage;INVEPAR;IVPR;Básico Balcão
+92;Capital Goods and Services;Transportation;Warehousing and Storage;PORTO VM;PSVM;Básico Bolsa
+93;Capital Goods and Services;Services;Diversified Services;BBMLOGISTICA;BBML;Básico Bolsa
+94;Capital Goods and Services;Services;Diversified Services;CONTAX;CTAX;Básico Bolsa
+95;Capital Goods and Services;Services;Diversified Services;DTCOM-DIRECT;DTCY;Básico Bolsa
+96;Capital Goods and Services;Services;Diversified Services;ESTAPAR;ALPK;Novo Mercado
+97;Capital Goods and Services;Services;Diversified Services;GPS;GGPS;Novo Mercado
+98;Capital Goods and Services;Services;Diversified Services;VALID;VLID;Novo Mercado
+99;Capital Goods and Services;Retail;Transportation Material;MINASMAQUINA;MMAQ;Básico Bolsa
+100;Capital Goods and Services;Retail;Transportation Material;RODOBENS;RBNS;Básico Bolsa
+101;Capital Goods and Services;Retail;Transportation Material;WLM IND COM;WLMM;Básico Bolsa
+103;Consumer Non Cyclical;Farming;Agriculture;3TENTOS;TTEN;Novo Mercado
+104;Consumer Non Cyclical;Farming;Agriculture;AGROGALAXY;AGXY;Novo Mercado
+105;Consumer Non Cyclical;Farming;Agriculture;ALIPERTI;APTI;Básico Bolsa
+106;Consumer Non Cyclical;Farming;Agriculture;BOA SAFRA;SOJA;Novo Mercado
+107;Consumer Non Cyclical;Farming;Agriculture;BRASILAGRO;AGRO;Novo Mercado
+108;Consumer Non Cyclical;Farming;Agriculture;CTC S.A.;CTCA;Básico Bolsa
+109;Consumer Non Cyclical;Farming;Agriculture;GRANJA FARIA;EGGY;Básico Bolsa
+110;Consumer Non Cyclical;Farming;Agriculture;SLC AGRICOLA;SLCE;Novo Mercado
+111;Consumer Non Cyclical;Farming;Agriculture;TERRASANTAPA;LAND;Novo Mercado
+112;Consumer Non Cyclical;Food Processors;Sugar - Alcohol;JALLESMACHAD;JALL;Novo Mercado
+113;Consumer Non Cyclical;Food Processors;Sugar - Alcohol;SAO MARTINHO;SMTO;Novo Mercado
+114;Consumer Non Cyclical;Food Processors;Meat, Poultry and Others;EXCELSIOR;BAUH;Básico Bolsa
+115;Consumer Non Cyclical;Food Processors;Meat, Poultry and Others;FICTORALIMEN;FICT;Básico Bolsa
+116;Consumer Non Cyclical;Food Processors;Meat, Poultry and Others;JBS N.V.;JBSS;BDR2
+117;Consumer Non Cyclical;Food Processors;Meat, Poultry and Others;MARFRIG;MBRF;Novo Mercado
+118;Consumer Non Cyclical;Food Processors;Meat, Poultry and Others;MINERVA;BEEF;Novo Mercado
+119;Consumer Non Cyclical;Food Processors;Meat, Poultry and Others;MINUPAR;MNPR;Básico Bolsa
+120;Consumer Non Cyclical;Food Processors;Other Food Manufacturing;CAMIL;CAML;Novo Mercado
+121;Consumer Non Cyclical;Food Processors;Other Food Manufacturing;JOSAPAR;JOPA;Básico Bolsa
+122;Consumer Non Cyclical;Food Processors;Other Food Manufacturing;M.DIASBRANCO;MDIA;Novo Mercado
+123;Consumer Non Cyclical;Food Processors;Other Food Manufacturing;ODERICH;ODER;Básico Bolsa
+124;Consumer Non Cyclical;Beverage;Beer and Soft Drinks;AMBEV S/A;ABEV;Básico Bolsa
+125;Consumer Non Cyclical;Personal Care and Cleaning Products;Em Branco;ESPACOLASER;ESPA;Novo Mercado
+126;Consumer Non Cyclical;Personal Care and Cleaning Products;Em Branco;NATURA;NATU;Novo Mercado
+127;Consumer Non Cyclical;Personal Care and Cleaning Products;Cleaning Products;BOMBRIL;BOBR;Básico Bolsa
+128;Consumer Non Cyclical;Retail and Distribution;Food Retailers;ASSAI;ASAI;Novo Mercado
+129;Consumer Non Cyclical;Retail and Distribution;Food Retailers;GRUPO MATEUS;GMAT;Novo Mercado
+130;Consumer Non Cyclical;Retail and Distribution;Food Retailers;P.ACUCAR-CBD;PCAR;Novo Mercado
+132;Consumer Cyclical;Retail;Apparel, Fabric and Footwear;AZZAS 2154;AZZA;Novo Mercado
+133;Consumer Cyclical;Retail;Apparel, Fabric and Footwear;CEA MODAS;CEAB;Novo Mercado
+134;Consumer Cyclical;Retail;Apparel, Fabric and Footwear;GRAZZIOTIN;CGRA;Básico Bolsa
+135;Consumer Cyclical;Retail;Apparel, Fabric and Footwear;LOJAS MARISA;AMAR;Novo Mercado
+136;Consumer Cyclical;Retail;Apparel, Fabric and Footwear;LOJAS RENNER;LREN;Novo Mercado
+137;Consumer Cyclical;Retail;Apparel, Fabric and Footwear;RIACHUELO;RIAA;Novo Mercado
+138;Consumer Cyclical;Retail;Apparel, Fabric and Footwear;VESTE;VSTE;Novo Mercado
+139;Consumer Cyclical;Retail;Electronics and Household Appliance;ALLIED;ALLD;Novo Mercado
+140;Consumer Cyclical;Retail;Electronics and Household Appliance;CASAS BAHIA;BHIA;Novo Mercado
+141;Consumer Cyclical;Retail;Electronics and Household Appliance;MAGAZ LUIZA;MGLU;Novo Mercado
+142;Consumer Cyclical;Retail;Diversified Retailers;AMERICANAS;AMER;Novo Mercado
+143;Consumer Cyclical;Retail;Diversified Retailers;GRUPO SBF;SBFG;Novo Mercado
+144;Consumer Cyclical;Retail;Diversified Retailers;LE BISCUIT;LLBI;Básico Bolsa
+145;Consumer Cyclical;Retail;Diversified Retailers;PETZCOBASI;AUAU;Novo Mercado
+146;Consumer Cyclical;Retail;Diversified Retailers;QUERO-QUERO;LJQQ;Novo Mercado
+147;Consumer Cyclical;Residential Building Construction;Real Estate;ALPHAVILLE;AVLL;Novo Mercado
+148;Consumer Cyclical;Residential Building Construction;Real Estate;CONST A LIND;CALI;Básico Bolsa
+149;Consumer Cyclical;Residential Building Construction;Real Estate;CURY S/A;CURY;Novo Mercado
+150;Consumer Cyclical;Residential Building Construction;Real Estate;CYRELA REALT;CYRE;Novo Mercado
+151;Consumer Cyclical;Residential Building Construction;Real Estate;DIRECIONAL;DIRR;Novo Mercado
+152;Consumer Cyclical;Residential Building Construction;Real Estate;EVEN;EVEN;Novo Mercado
+153;Consumer Cyclical;Residential Building Construction;Real Estate;EZTEC;EZTC;Novo Mercado
+154;Consumer Cyclical;Residential Building Construction;Real Estate;FICA;FIEI;Básico Bolsa
+155;Consumer Cyclical;Residential Building Construction;Real Estate;GAFISA;GFSA;Novo Mercado
+156;Consumer Cyclical;Residential Building Construction;Real Estate;HELBOR;HBOR;Novo Mercado
+157;Consumer Cyclical;Residential Building Construction;Real Estate;INC SA;INNC;Básico Bolsa
+158;Consumer Cyclical;Residential Building Construction;Real Estate;JHSF PART;JHSF;Novo Mercado
+159;Consumer Cyclical;Residential Building Construction;Real Estate;JOAO FORTES;JFEN;Básico Bolsa
+160;Consumer Cyclical;Residential Building Construction;Real Estate;KALLAS;KLAS;Básico Bolsa
+161;Consumer Cyclical;Residential Building Construction;Real Estate;LAVVI;LAVV;Novo Mercado
+162;Consumer Cyclical;Residential Building Construction;Real Estate;MELNICK;MELK;Novo Mercado
+163;Consumer Cyclical;Residential Building Construction;Real Estate;MITRE REALTY;MTRE;Novo Mercado
+164;Consumer Cyclical;Residential Building Construction;Real Estate;MOURA DUBEUX;MDNE;Novo Mercado
+165;Consumer Cyclical;Residential Building Construction;Real Estate;MRV;MRVE;Novo Mercado
+166;Consumer Cyclical;Residential Building Construction;Real Estate;PDG REALT;PDGR;Novo Mercado
+167;Consumer Cyclical;Residential Building Construction;Real Estate;PLANOEPLANO;PLPL;Novo Mercado
+168;Consumer Cyclical;Residential Building Construction;Real Estate;RDVC CITY;CCTY;Novo Mercado
+169;Consumer Cyclical;Residential Building Construction;Real Estate;ROSSI RESID;RSID;Novo Mercado
+170;Consumer Cyclical;Residential Building Construction;Real Estate;TECNISA;TCSA;Novo Mercado
+171;Consumer Cyclical;Residential Building Construction;Real Estate;TENDA;TEND;Novo Mercado
+172;Consumer Cyclical;Residential Building Construction;Real Estate;TRISUL;TRIS;Novo Mercado
+173;Consumer Cyclical;Residential Building Construction;Real Estate;VIVER;VIVR;Novo Mercado
+174;Consumer Cyclical;Textiles, Apparel and Footwear;Fabric, Thread and Fibers;CEDRO;CEDO;Nível 1
+175;Consumer Cyclical;Textiles, Apparel and Footwear;Fabric, Thread and Fibers;DOHLER;DOHL;Básico Bolsa
+176;Consumer Cyclical;Textiles, Apparel and Footwear;Fabric, Thread and Fibers;IND CATAGUAS;CATA;Básico Bolsa
+177;Consumer Cyclical;Textiles, Apparel and Footwear;Fabric, Thread and Fibers;KARSTEN;CTKA;Básico Bolsa
+178;Consumer Cyclical;Textiles, Apparel and Footwear;Fabric, Thread and Fibers;SANTANENSE;CTSA;Básico Bolsa
+179;Consumer Cyclical;Textiles, Apparel and Footwear;Fabric, Thread and Fibers;TEX RENAUX;TXRX;Básico Bolsa
+180;Consumer Cyclical;Textiles, Apparel and Footwear;Apparel and Clothing;TRACK FIELD;TFCO;Nível 2
+181;Consumer Cyclical;Textiles, Apparel and Footwear;Footwear;ALPARGATAS;ALPA;Nível 1
+182;Consumer Cyclical;Textiles, Apparel and Footwear;Footwear;CAMBUCI;CAMB;Básico Bolsa
+183;Consumer Cyclical;Textiles, Apparel and Footwear;Footwear;GRENDENE;GRND;Novo Mercado
+184;Consumer Cyclical;Textiles, Apparel and Footwear;Footwear;VULCABRAS;VULC;Novo Mercado
+185;Consumer Cyclical;Textiles, Apparel and Footwear;Accessories;MUNDIAL;MNDL;Básico Bolsa
+186;Consumer Cyclical;Textiles, Apparel and Footwear;Accessories;TECHNOS;TECN;Novo Mercado
+187;Consumer Cyclical;Textiles, Apparel and Footwear;Accessories;VIVARA S.A.;VIVA;Novo Mercado
+188;Consumer Cyclical;Household Products;Household Appliance;WHIRLPOOL;WHRL;Básico Bolsa
+189;Consumer Cyclical;Household Products;Home Furnishing;GRUPO TOKY;TOKY;Novo Mercado
+190;Consumer Cyclical;Household Products;Home Furnishing;UNICASA;UCAS;Novo Mercado
+191;Consumer Cyclical;Household Products;Home Furnishing;WESTWING;WEST;Novo Mercado
+192;Consumer Cyclical;Household Products;Houseware Utensils;HERCULES;HETA;Básico Bolsa
+193;Consumer Cyclical;Automobiles and Motorcycles;Automobiles and Motorcycles;AUTOMOB;AMOB;Novo Mercado
+194;Consumer Cyclical;Automobiles and Motorcycles;Automobiles and Motorcycles;IOCHP-MAXION;MYPK;Novo Mercado
+195;Consumer Cyclical;Automobiles and Motorcycles;Automobiles and Motorcycles;METAL LEVE;LEVE;Novo Mercado
+196;Consumer Cyclical;Automobiles and Motorcycles;Automobiles and Motorcycles;PLASCAR PART;PLAS;Básico Bolsa
+197;Consumer Cyclical;Hotels and Restaurants;Hotels;HOTEIS OTHON;HOOT;Básico Bolsa
+198;Consumer Cyclical;Hotels and Restaurants;Restaurants and Similars;IMC S/A;MEAL;Novo Mercado
+199;Consumer Cyclical;Travel, Entertainment and Leisure;Bicycles;BIC MONARK;BMKS;Básico Bolsa
+200;Consumer Cyclical;Travel, Entertainment and Leisure;Toys and Games;ESTRELA;ESTR;Básico Bolsa
+201;Consumer Cyclical;Travel, Entertainment and Leisure;Entertainment;REVEE;RVEE;Básico Bolsa
+202;Consumer Cyclical;Travel, Entertainment and Leisure;Entertainment;SPTURIS;AHEB;Básico Bolsa
+203;Consumer Cyclical;Travel, Entertainment and Leisure;Entertainment;TIME FOR FUN;SHOW;Novo Mercado
+204;Consumer Cyclical;Travel, Entertainment and Leisure;Travel and Tourism;CVC BRASIL;CVCB;Novo Mercado
+205;Consumer Cyclical;Travel, Entertainment and Leisure;Sports;SMART FIT;SMFT;Novo Mercado
+206;Consumer Cyclical;Diversified;Education Services;ANIMA;ANIM;Novo Mercado
+207;Consumer Cyclical;Diversified;Education Services;ATOM EDUC;ATED;Básico Bolsa
+208;Consumer Cyclical;Diversified;Education Services;BIOMA EDUC;BIED;Básico Bolsa
+209;Consumer Cyclical;Diversified;Education Services;COGNA ON;COGN;Novo Mercado
+210;Consumer Cyclical;Diversified;Education Services;CRUZEIRO EDU;CSED;Novo Mercado
+211;Consumer Cyclical;Diversified;Education Services;GRUPO SALTA;SALT;Nível 2
+212;Consumer Cyclical;Diversified;Education Services;ORANJEBTC;OBTC;Básico Bolsa
+213;Consumer Cyclical;Diversified;Education Services;SER EDUCA;SEER;Novo Mercado
+214;Consumer Cyclical;Diversified;Education Services;VITRUEDUCA;VTRU;Novo Mercado
+215;Consumer Cyclical;Diversified;Education Services;YDUQS PART;YDUQ;Novo Mercado
+216;Consumer Cyclical;Diversified;Car rental;LOCALIZA;RENT;Novo Mercado
+217;Consumer Cyclical;Diversified;Car rental;MOVIDA;MOVI;Novo Mercado
+218;Consumer Cyclical;Diversified;Car rental;VAMOS;VAMO;Novo Mercado
+219;Consumer Cyclical;Diversified;Loyalty Programs;DOTZ SA;DOTZ;Novo Mercado
+221;Health;Pharmaceutical and Others Products;Pharmaceutical and Others Products;BIOMM;BIOM;Nível 2
+222;Health;Pharmaceutical and Others Products;Pharmaceutical and Others Products;OUROFINO S/A;OFSA;Novo Mercado
+223;Health;Med Hosp Serv, Anal and Diagnostics;Med Hosp Serv, Anal and Diagnostics;ALLIAR;AALR;Novo Mercado
+224;Health;Med Hosp Serv, Anal and Diagnostics;Med Hosp Serv, Anal and Diagnostics;BRADSAUDE;SAUD;Novo Mercado
+225;Health;Med Hosp Serv, Anal and Diagnostics;Med Hosp Serv, Anal and Diagnostics;DASA;DASA;Novo Mercado
+226;Health;Med Hosp Serv, Anal and Diagnostics;Med Hosp Serv, Anal and Diagnostics;FLEURY;FLRY;Novo Mercado
+227;Health;Med Hosp Serv, Anal and Diagnostics;Med Hosp Serv, Anal and Diagnostics;HAPVIDA;HAPV;Novo Mercado
+228;Health;Med Hosp Serv, Anal and Diagnostics;Med Hosp Serv, Anal and Diagnostics;MATER DEI;MATD;Novo Mercado
+229;Health;Med Hosp Serv, Anal and Diagnostics;Med Hosp Serv, Anal and Diagnostics;ONCOCLINICAS;ONCO;Novo Mercado
+230;Health;Med Hosp Serv, Anal and Diagnostics;Med Hosp Serv, Anal and Diagnostics;QUALICORP;QUAL;Novo Mercado
+231;Health;Med Hosp Serv, Anal and Diagnostics;Med Hosp Serv, Anal and Diagnostics;REDE D OR;RDOR;Novo Mercado
+232;Health;Equipment;Equipments;BAUMER;BALM;Básico Bolsa
+233;Health;Equipment;Equipments;LIFEMED;LMED;Básico Bolsa
+234;Health;Retail and Distribution;Pharmaceutical and Others Products;BLAU;BLAU;Novo Mercado
+235;Health;Retail and Distribution;Pharmaceutical and Others Products;D1000VFARMA;DMVF;Novo Mercado
+236;Health;Retail and Distribution;Pharmaceutical and Others Products;DIMED;PNVL;Novo Mercado
+237;Health;Retail and Distribution;Pharmaceutical and Others Products;EUROFARMA SA;EUFA;Básico Bolsa
+238;Health;Retail and Distribution;Pharmaceutical and Others Products;HYPERA;HYPE;Novo Mercado
+239;Health;Retail and Distribution;Pharmaceutical and Others Products;PAGUE MENOS;PGMN;Novo Mercado
+240;Health;Retail and Distribution;Pharmaceutical and Others Products;PROFARMA;PFRM;Novo Mercado
+241;Health;Retail and Distribution;Pharmaceutical and Others Products;RAIADROGASIL;RADL;Novo Mercado
+242;Health;Retail and Distribution;Pharmaceutical and Others Products;VIVEO;VVEO;Novo Mercado
+244;INFORMATION TECHNOLOGY;Hardware and Equipments;Hardware and Equipments;INTELBRAS;INTB;Novo Mercado
+245;INFORMATION TECHNOLOGY;Hardware and Equipments;Hardware and Equipments;MULTILASER;MLAS;Novo Mercado
+246;INFORMATION TECHNOLOGY;Hardware and Equipments;Hardware and Equipments;POSITIVO TEC;POSI;Novo Mercado
+247;INFORMATION TECHNOLOGY;Software and Services;Software and Services;BEMOBI TECH;BMOB;Novo Mercado
+248;INFORMATION TECHNOLOGY;Software and Services;Software and Services;BRQ;BRQB;Básico Bolsa
+249;INFORMATION TECHNOLOGY;Software and Services;Software and Services;ENJOEI;ENJU;Novo Mercado
+250;INFORMATION TECHNOLOGY;Software and Services;Software and Services;INFRACOMM;IFCM;Novo Mercado
+251;INFORMATION TECHNOLOGY;Software and Services;Software and Services;LWSA;LWSA;Novo Mercado
+252;INFORMATION TECHNOLOGY;Software and Services;Software and Services;MELIUZ;CASH;Novo Mercado
+253;INFORMATION TECHNOLOGY;Software and Services;Software and Services;NEOGRID;NGRD;Básico Bolsa
+254;INFORMATION TECHNOLOGY;Software and Services;Software and Services;PADTEC;PDTC;Novo Mercado
+255;INFORMATION TECHNOLOGY;Software and Services;Software and Services;QUALITY SOFT;QUSW;Básico Bolsa
+256;INFORMATION TECHNOLOGY;Software and Services;Software and Services;TC;TRAD;Novo Mercado
+257;INFORMATION TECHNOLOGY;Software and Services;Software and Services;TOTVS;TOTS;Novo Mercado
+258;INFORMATION TECHNOLOGY;Software and Services;Software and Services;WDC NETWORKS;WDCN;Novo Mercado
+260;Communications;Telecommunications;Telecommunications;BRISANET;BRST;Novo Mercado
+261;Communications;Telecommunications;Telecommunications;DESKTOP;DESK;Novo Mercado
+262;Communications;Telecommunications;Telecommunications;OI;OIBR;Nível 1
+263;Communications;Telecommunications;Telecommunications;TELEBRAS;TELB;Básico Bolsa
+264;Communications;Telecommunications;Telecommunications;TELEF BRASIL;VIVT;Básico Bolsa
+265;Communications;Telecommunications;Telecommunications;TIM;TIMS;Novo Mercado
+266;Communications;Telecommunications;Telecommunications;UNIFIQUE;FIQE;Novo Mercado
+268;Utilities;Electric Utilities;Electric Utilities;AESOPERACOES;AESO;Básico Bolsa
+269;Utilities;Electric Utilities;Electric Utilities;AFLUENTE T;AFLT;Básico Bolsa
+270;Utilities;Electric Utilities;Electric Utilities;ALUPAR;ALUP;Nível 2
+271;Utilities;Electric Utilities;Electric Utilities;AMPLA ENERG;CBEE;Básico Bolsa
+272;Utilities;Electric Utilities;Electric Utilities;AUREN;AURE;Novo Mercado
+273;Utilities;Electric Utilities;Electric Utilities;AXIA ENERGIA;AXIA;Novo Mercado
+274;Utilities;Electric Utilities;Electric Utilities;CEB;CEBR;Básico Bolsa
+275;Utilities;Electric Utilities;Electric Utilities;CEEE-D;CEED;Básico Bolsa
+276;Utilities;Electric Utilities;Electric Utilities;CELESC;CLSC;Nível 2
+277;Utilities;Electric Utilities;Electric Utilities;CELGPAR;GPAR;Básico Bolsa
+278;Utilities;Electric Utilities;Electric Utilities;CEMIG;CMIG;Nível 1
+279;Utilities;Electric Utilities;Electric Utilities;COELBA;CEEB;Básico Bolsa
+280;Utilities;Electric Utilities;Electric Utilities;COELCE;COCE;Básico Bolsa
+281;Utilities;Electric Utilities;Electric Utilities;COMERC PAR;COMR;Básico Bolsa
+282;Utilities;Electric Utilities;Electric Utilities;COPEL;CPLE;Novo Mercado
+283;Utilities;Electric Utilities;Electric Utilities;CPFL ENERGIA;CPFE;Novo Mercado
+284;Utilities;Electric Utilities;Electric Utilities;ELEKTRO;EKTR;Básico Bolsa
+285;Utilities;Electric Utilities;Electric Utilities;EMAE;EMAE;Básico Bolsa
+286;Utilities;Electric Utilities;Electric Utilities;ENERGISA;ENGI;Nível 2
+287;Utilities;Electric Utilities;Electric Utilities;ENERGISA MT;ENMT;Básico Bolsa
+288;Utilities;Electric Utilities;Electric Utilities;ENEVA;ENEV;Novo Mercado
+289;Utilities;Electric Utilities;Electric Utilities;ENGIE BRASIL;EGIE;Novo Mercado
+290;Utilities;Electric Utilities;Electric Utilities;EQTL PARA;EQPA;Básico Bolsa
+291;Utilities;Electric Utilities;Electric Utilities;EQTLMARANHAO;EQMA;Básico Balcão
+292;Utilities;Electric Utilities;Electric Utilities;EQUATORIAL;EQTL;Novo Mercado
+293;Utilities;Electric Utilities;Electric Utilities;GER PARANAP;GEPA;Básico Bolsa
+294;Utilities;Electric Utilities;Electric Utilities;ISA ENERGIA;ISAE;Nível 1
+295;Utilities;Electric Utilities;Electric Utilities;LIGHT;LIGH;Básico Bolsa
+296;Utilities;Electric Utilities;Electric Utilities;LIGHT S/A;LIGT;Novo Mercado
+297;Utilities;Electric Utilities;Electric Utilities;PROMAN;PRMN;Básico Balcão
+298;Utilities;Electric Utilities;Electric Utilities;REDE ENERGIA;REDE;Básico Bolsa
+299;Utilities;Electric Utilities;Electric Utilities;RENOVA;RNEW;Nível 2
+300;Utilities;Electric Utilities;Electric Utilities;TAESA;TAEE;Nível 2
+301;Utilities;Water Utilities;Water Utilities;AMBIPAR;AMBP;Novo Mercado
+302;Utilities;Water Utilities;Water Utilities;CASAN;CASN;Básico Bolsa
+303;Utilities;Water Utilities;Water Utilities;COPASA;CSMG;Novo Mercado
+304;Utilities;Water Utilities;Water Utilities;IGUA SA;IGSN;Básico Bolsa
+305;Utilities;Water Utilities;Water Utilities;ORIZON;ORVR;Novo Mercado
+306;Utilities;Water Utilities;Water Utilities;SABESP;SBSP;Novo Mercado
+307;Utilities;Water Utilities;Water Utilities;SANEPAR;SAPR;Nível 2
+308;Utilities;Gas Utilities;Gas Utilities;CEG;CEGR;Básico Bolsa
+309;Utilities;Gas Utilities;Gas Utilities;COMGAS;CGAS;Básico Bolsa
+310;Utilities;Gas Utilities;Gas Utilities;COMPASS;PASS;Novo Mercado
+312;Financial;Financial Intermediaries;Banks;ABC BRASIL;ABCB;Nível 2
+313;Financial;Financial Intermediaries;Banks;ALFA HOLDING;RPAD;Básico Bolsa
+314;Financial;Financial Intermediaries;Banks;AMAZONIA;BAZA;Básico Bolsa
+315;Financial;Financial Intermediaries;Banks;BANCO BMG;BMGB;Nível 1
+316;Financial;Financial Intermediaries;Banks;BANESE;BGIP;Básico Bolsa
+317;Financial;Financial Intermediaries;Banks;BANESTES;BEES;Básico Bolsa
+318;Financial;Financial Intermediaries;Banks;BANPARA;BPAR;Básico Bolsa
+319;Financial;Financial Intermediaries;Banks;BANRISUL;BRSR;Nível 1
+320;Financial;Financial Intermediaries;Banks;BR PARTNERS;BRBI;Nível 2
+321;Financial;Financial Intermediaries;Banks;BRADESCO;BBDC;Nível 1
+322;Financial;Financial Intermediaries;Banks;BRASIL;BBAS;Novo Mercado
+323;Financial;Financial Intermediaries;Banks;BRB BANCO;BSLI;Básico Bolsa
+324;Financial;Financial Intermediaries;Banks;BTGP BANCO;BPAC;Nível 2
+325;Financial;Financial Intermediaries;Banks;INTER CO;INBR;BDR2
+326;Financial;Financial Intermediaries;Banks;ITAUUNIBANCO;ITUB;Nível 1
+327;Financial;Financial Intermediaries;Banks;MERC INVEST;BMIN;Básico Bolsa
+328;Financial;Financial Intermediaries;Banks;MERCANTIL;BMEB;Nível 1
+329;Financial;Financial Intermediaries;Banks;NORD BRASIL;BNBR;Básico Bolsa
+330;Financial;Financial Intermediaries;Banks;PINE;PINE;Nível 2
+331;Financial;Financial Intermediaries;Banks;SANTANDER BR;SANB;Básico Bolsa
+332;Financial;Financial Intermediaries;Others Financial Intermediaries;INVEST BEMGE;FIGE;Básico Bolsa
+333;Financial;Asset-backed Securitization;Asset-backed Securitization;BRAZILIAN SC;BSCS;Básico Bolsa
+334;Financial;Asset-backed Securitization;Asset-backed Securitization;OPEA;RBRA;Básico Bolsa
+335;Financial;Asset-backed Securitization;Asset-backed Securitization;POLO CAP SEC;PLSC;Básico Bolsa
+336;Financial;Diversified Financial Services;Asset Management and Ivestments;G2D INVEST;G2DI;BDR3
+337;Financial;Diversified Financial Services;Asset Management and Ivestments;PPLA;PPLA;BDR3
+338;Financial;Diversified Financial Services;Diversified Financial Services;B3;B3SA;Novo Mercado
+339;Financial;Diversified Financial Services;Diversified Financial Services;CSU DIGITAL;CSUD;Novo Mercado
+340;Financial;Insurance, Life and Multi-line;Insurance;BBSEGURIDADE;BBSE;Novo Mercado
+341;Financial;Insurance, Life and Multi-line;Insurance;CAIXA SEGURI;CXSE;Novo Mercado
+342;Financial;Insurance, Life and Multi-line;Insurance;PORTO SEGURO;PSSA;Novo Mercado
+343;Financial;Insurance, Life and Multi-line;Reinsurance;IRBBRASIL RE;IRBR;Novo Mercado
+344;Financial;Insurance, Life and Multi-line;Insurance and Reinsurance Brokers;WIZ CO;WIZC;Novo Mercado
+345;Financial;Real Estate;Real Estate;ALLOS;ALOS;Novo Mercado
+346;Financial;Real Estate;Real Estate;GENERALSHOPP;GSHP;Básico Bolsa
+347;Financial;Real Estate;Real Estate;HABITASUL;HBTS;Básico Bolsa
+348;Financial;Real Estate;Real Estate;HBR REALTY;HBRE;Novo Mercado
+349;Financial;Real Estate;Real Estate;IGUATEMI S.A;IGTI;Nível 1
+350;Financial;Real Estate;Real Estate;LOG COM PROP;LOGG;Novo Mercado
+351;Financial;Real Estate;Real Estate;MULTIPLAN;MULT;Nível 2
+352;Financial;Real Estate;Real Estate;NORDON MET;NORD;Básico Bolsa
+353;Financial;Real Estate;Real Estate;PAR AL BAHIA;PEAB;Básico Bolsa
+354;Financial;Real Estate;Real Estate;SAO CARLOS;SCAR;Novo Mercado
+355;Financial;Real Estate;Real Estate;SYN PROP TEC;SYNE;Novo Mercado
+356;Financial;Real Estate;Property Agency;LOPES BRASIL;LPSB;Novo Mercado
+357;Financial;Real Estate;Property Agency;NEXPE;NEXP;Básico Bolsa
+358;Financial;Holdings - Diversified;Holdings - Diversified;ARANDU;ARND;Novo Mercado
+359;Financial;Holdings - Diversified;Holdings - Diversified;EMBPAR S/A;EPAR;Básico Bolsa
+360;Financial;Holdings - Diversified;Holdings - Diversified;ITAUSA;ITSA;Nível 1
+361;Financial;Holdings - Diversified;Holdings - Diversified;SIMPAR;SIMH;Novo Mercado
+362;Financial;Diversified Services;Diversified Services;B100 S.A.;B100;Novo Mercado
+363;Financial;Others Bonds;Others Bonds;CEPAC - CTBA;CTBA;Básico Balcão
+364;Financial;Others Bonds;Others Bonds;CEPAC - MCRJ;MCRJ;Básico Balcão
+365;Financial;Others Bonds;Others Bonds;CEPAC - PMSP;PMSP;Básico Balcão
+367;Others;Others;Others;524 PARTICIP;QVQP;Básico Bolsa
+368;Others;Others;Others;BETAPART;BETP;Básico Bolsa
+369;Others;Others;Others;CEMEPE;MAPT;Básico Bolsa
+370;Others;Others;Others;GAMA PART;OPGM;Básico Bolsa
+371;Others;Others;Others;POLPAR;PPAR;Básico Bolsa
+372;Others;Others;Others;PROMPT PART;PRPT;Básico Bolsa
+373;Others;Others;Others;SUDESTE S/A;OPSE;Básico Bolsa
+374;Others;Others;Others;SUL 116 PART;OPTS;Básico Bolsa
